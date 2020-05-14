@@ -1,3 +1,8 @@
+<?php
+/**
+ * Tab Tutorials
+ */
+?>
 <div id="tab-tutorials" class="col two-col panel flatsome-panel">
 
 	<div class="cols">

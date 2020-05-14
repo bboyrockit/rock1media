@@ -1,5 +1,5 @@
 #icon-woocommerce-importer {
-    background-image: url(https://bboyrockit.github.io/rock1media/wp-content/plugins/product-import-export-for-woo/images/wf-import.png) !important;
+    background-image: url(../images/wf-import.png) !important;
     background-position: -3px -5px;
 }
 .widefat_importer td {
@@ -23,7 +23,7 @@
     text-align: right;
 }
 #import-progress tr.importer-loading td {
-    background: url(https://bboyrockit.github.io/rock1media/wp-content/plugins/product-import-export-for-woo/images/wf-ajax-loader.gif) no-repeat center center;
+    background: url(../images/wf-ajax-loader.gif) no-repeat center center;
     height: 32px;
 }
 #import-progress .merged td,
@@ -45,14 +45,14 @@
     padding: 16px 0 0 0;
 }
 #import-progress .skipped mark.result {
-    background: url(https://bboyrockit.github.io/rock1media/wp-content/plugins/product-import-export-for-woo/images/wf-notice.png) no-repeat center top;
+    background: url(../images/wf-notice.png) no-repeat center top;
 }
 #import-progress .merged mark.result,
 #import-progress .imported mark.result {
-    background: url(https://bboyrockit.github.io/rock1media/wp-content/plugins/product-import-export-for-woo/images/wf-success.png) no-repeat center top;
+    background: url(../images/wf-success.png) no-repeat center top;
 }
 #import-progress .failed mark.result {
-    background: url(https://bboyrockit.github.io/rock1media/wp-content/plugins/product-import-export-for-woo/images/wf-failed.png) no-repeat center top;
+    background: url(../images/wf-failed.png) no-repeat center top;
 }
 #import-progress .complete td {
     background: #000;
@@ -94,7 +94,7 @@
 }
 
 .rate-star{ 
-    background: rgba(0, 0, 0, 0) url("https://bboyrockit.github.io/rock1media/wp-content/plugins/product-import-export-for-woo/images/stars.png") no-repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("../images/stars.png") no-repeat scroll 0 0;
     display: inline-block;
     height: 24px;
     position: relative;

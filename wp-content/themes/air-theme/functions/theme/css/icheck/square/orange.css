@@ -7,7 +7,7 @@
     padding: 0;
     width: 22px;
     height: 22px;
-    background: url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/css/icheck/square/orange.png) no-repeat;
+    background: url(orange.png) no-repeat;
     border: none;
     cursor: pointer;
 }
@@ -53,7 +53,7 @@
        only screen and (min-device-pixel-ratio: 1.5) {
     .icheckbox_square-orange,
     .iradio_square-orange {
-        background-image: url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/css/icheck/square/orange@2x.png);
+        background-image: url(orange@2x.png);
         -webkit-background-size: 240px 24px;
         background-size: 240px 24px;
     }

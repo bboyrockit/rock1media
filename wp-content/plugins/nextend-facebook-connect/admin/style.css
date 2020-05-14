@@ -327,12 +327,12 @@
 
 .nsl-box-blue {
     border: 3px solid #00a0d2;
-    background-image: url('https://bboyrockit.github.io/rock1media/wp-content/plugins/nextend-facebook-connect/admin/images/test-needed.png');
+    background-image: url('images/test-needed.png');
 }
 
 .nsl-box-green {
     border: 3px solid #46b450;
-    background-image: url('https://bboyrockit.github.io/rock1media/wp-content/plugins/nextend-facebook-connect/admin/images/ok.png');
+    background-image: url('images/ok.png');
 }
 
 .nsl-box-red {
@@ -340,15 +340,15 @@
 }
 
 .nsl-box-error {
-    background-image: url('https://bboyrockit.github.io/rock1media/wp-content/plugins/nextend-facebook-connect/admin/images/error.png');
+    background-image: url('images/error.png');
 }
 
 .nsl-box-padlock {
-    background-image: url('https://bboyrockit.github.io/rock1media/wp-content/plugins/nextend-facebook-connect/admin/images/padlock.png');
+    background-image: url('images/padlock.png');
 }
 
 .nsl-box-exclamation-mark {
-    background-image: url('https://bboyrockit.github.io/rock1media/wp-content/plugins/nextend-facebook-connect/admin/images/exclamation-mark.png');
+    background-image: url('images/exclamation-mark.png');
 }
 
 .nsl-box .button {
@@ -404,7 +404,7 @@ input[type="radio"]:checked ~ img {
     width: 170px;
     height: 105px;
     margin: 20px auto 0;
-    background-image: url('https://bboyrockit.github.io/rock1media/wp-content/plugins/nextend-facebook-connect/admin/images/stars-big.png');
+    background-image: url('images/stars-big.png');
 }
 
 [data-stars="1"] .nsl-box-review-bigstar {
@@ -458,7 +458,7 @@ input[type="radio"]:checked ~ img {
     float: left;
     width: 34px;
     height: 34px;
-    background-image: url('https://bboyrockit.github.io/rock1media/wp-content/plugins/nextend-facebook-connect/admin/images/stars-small.png');
+    background-image: url('images/stars-small.png');
 }
 
 [data-stars="1"] .nsl-box-review-star[data-star="1"],

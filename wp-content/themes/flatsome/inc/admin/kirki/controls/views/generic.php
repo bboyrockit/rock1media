@@ -1,3 +1,15 @@
+<?php
+/**
+ * Customizer controls underscore.js template.
+ *
+ * @package     Kirki
+ * @subpackage  Controls
+ * @copyright   Copyright (c) 2019, Ari Stathopoulos (@aristath)
+ * @license     https://opensource.org/licenses/MIT
+ * @since       3.0.17
+ */
+
+?>
 <#
 element = ( data.choices.element ) ? data.choices.element : 'input';
 data = _.defaults( data, {
@@ -25,7 +37,7 @@ data = _.defaults( data, {
 				<# _.each( data.choices, function( val, key ) { #>
 					{{ key }}="{{ val }}"
 				<# } ); #>
-			<# if ( data.choices.content ) { #>>{{{ data.choices.content }}}</{{><# } else { #>/><# } #>
+			<# if ( data.choices.content ) { #>>{{{ data.choices.content }}}</{{ element }}><# } else { #>/><# } #>
 		</div>
 	</label>
 </div>
