@@ -52,34 +52,34 @@
 .pswp__button,
 .pswp__button--arrow--left:before,
 .pswp__button--arrow--right:before {
-  background: url(default-skin.png) 0 0 no-repeat;
+  background: url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/styles/skin/photoswipe/default/default-skin.png) 0 0 no-repeat;
   background-size: 264px 88px;
   width: 44px;
   height: 44px; }
 .pswp-light-skin .pswp__button {
-  background: url(light-skin.png) 0 0 no-repeat; }
+  background: url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/styles/skin/photoswipe/default/light-skin.png) 0 0 no-repeat; }
 .pswp-light-skin .pswp__button--arrow--left,
 .pswp-light-skin .pswp__button--arrow--right {
     background: none;
   }
 .pswp-light-skin .pswp__button--arrow--left:before,
 .pswp-light-skin .pswp__button--arrow--right:before {
-  background-image: url(light-skin.png); 
+  background-image: url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/styles/skin/photoswipe/default/light-skin.png); 
   background-repeat: no-repeat; } 
 @media (-webkit-min-device-pixel-ratio: 1.1), (-webkit-min-device-pixel-ratio: 1.09375), (min-resolution: 105dpi), (min-resolution: 1.1dppx) {
   /* Serve SVG sprite if browser supports SVG and resolution is more than 105dpi */
   .pswp--svg .pswp__button,
   .pswp--svg .pswp__button--arrow--left:before,
   .pswp--svg .pswp__button--arrow--right:before {
-    background-image: url(default-skin.svg); }
+    background-image: url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/styles/skin/photoswipe/default/default-skin.svg); }
   .pswp--svg .pswp__button--arrow--left,
   .pswp--svg .pswp__button--arrow--right {
     background: none; } 
   .pswp-light-skin .pswp--svg .pswp__button,
   .pswp-light-skin .pswp--svg .pswp__button--arrow--left:before,
   .pswp-light-skin .pswp--svg .pswp__button--arrow--right:before {
-    background-image: url(light-skin.svg); }
-  .pswp-light-skin button.pswp__button { background-image: url(light-skin.svg)!important; }
+    background-image: url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/styles/skin/photoswipe/default/light-skin.svg); }
+  .pswp-light-skin button.pswp__button { background-image: url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/styles/skin/photoswipe/default/light-skin.svg)!important; }
   .pswp-light-skin .pswp--svg .pswp__button--arrow--left,
   .pswp-light-skin .pswp--svg .pswp__button--arrow--right {
     background: none!important; } }
@@ -346,7 +346,7 @@ a.pswp__share--download:hover {
   opacity: 1; }
   .pswp__preloader--active .pswp__preloader__icn {
     /* We use .gif in browsers that don't support CSS animation */
-    background: url(preloader.gif) 0 0 no-repeat; }
+    background: url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/styles/skin/photoswipe/default/preloader.gif) 0 0 no-repeat; }
 
 .pswp--css_animation .pswp__preloader--active {
   opacity: 1; }

@@ -1,5 +1,5 @@
 /*
-Theme Name: <?php echo $new_theme_title, "\n"; ?>
+Theme Name: 
 Description: This is a child theme for Flatsome Theme
 Author: UX Themes
 Template: flatsome

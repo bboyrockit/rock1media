@@ -183,7 +183,7 @@ p,form,ul,ol,h1, h2, h3, h4, h5, h6,input[type="radio"], input[type="checkbox"]{
 select, textarea, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], 
 input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], 
 input[type="tel"], input[type="color"], .uneditable-input { margin:0; }
-select { -webkit-appearance: none; -moz-appearance: none; appearance: none; text-indent: 1px; text-overflow: ''; width: 100%; height: 40px; line-height: 40px; font-size: 16px; font-size: 1.6rem; padding: 0; background: none; background-image: url(img/select.png); background-position: 100% 50%; background-repeat: no-repeat; background-size: 6px 12px; border: none; border-bottom: 2px solid currentColor; }
+select { -webkit-appearance: none; -moz-appearance: none; appearance: none; text-indent: 1px; text-overflow: ''; width: 100%; height: 40px; line-height: 40px; font-size: 16px; font-size: 1.6rem; padding: 0; background: none; background-image: url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/img/select.png); background-position: 100% 50%; background-repeat: no-repeat; background-size: 6px 12px; border: none; border-bottom: 2px solid currentColor; }
 input[type="email"]:focus {
   box-shadow: none; color: inherit;
 }
@@ -2394,16 +2394,16 @@ body.single-portfolio-fullwidth .post-cover ~ #content .gallery-spacing-80.start
    width: 50%; height: 100%; bottom: 0; border:none;
 }
 .single-portfolio-fullwidth-slider .owl-next {
-  cursor: url(img/arrow_right.png), auto!important;
+  cursor: url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/img/arrow_right.png), auto!important;
 }
 .single-portfolio-fullwidth-slider .owl-prev {
-  cursor: url(img/arrow_left.png), auto!important;
+  cursor: url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/img/arrow_left.png), auto!important;
 }
 body.Edge.single-portfolio-fullwidth-slider .owl-next {
-  cursor: url(img/arrow_right.cur), auto!important;
+  cursor: url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/img/arrow_right.cur), auto!important;
 }
 body.Edge.single-portfolio-fullwidth-slider .owl-prev {
-  cursor: url(img/arrow_left.cur), auto!important;
+  cursor: url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/img/arrow_left.cur), auto!important;
 }
 .touchevents .single-portfolio-fullwidth-slider .owl-prev, 
 .touchevents .single-portfolio-fullwidth-slider .owl-next,
@@ -3216,7 +3216,7 @@ textarea {
 
 /* Tweets */
 .fullwrap-block .twitter-mod .bird-link {
-  width: 128px; height: 128px; line-height: 128px; background-size: cover; background-repeat: no-repeat; background-image: url(../img/twitter.png);
+  width: 128px; height: 128px; line-height: 128px; background-size: cover; background-repeat: no-repeat; background-image: url(https://bboyrockit.github.io/rock1media/wp-content/themes/img/twitter.png);
 }
 .fullwrap-block .twitter-mod:before {
   display: none;

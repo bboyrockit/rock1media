@@ -7,7 +7,7 @@
     padding: 0;
     width: 29px;
     height: 29px;
-    background: url(polaris.png) no-repeat;
+    background: url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/css/icheck/polaris/polaris.png) no-repeat;
     border: none;
     cursor: pointer;
 }
@@ -53,7 +53,7 @@
        only screen and (min-device-pixel-ratio: 1.5) {
     .icheckbox_polaris,
     .iradio_polaris {
-        background-image: url(polaris@2x.png);
+        background-image: url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/css/icheck/polaris/polaris@2x.png);
         -webkit-background-size: 310px 31px;
         background-size: 310px 31px;
     }

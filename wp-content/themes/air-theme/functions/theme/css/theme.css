@@ -20,7 +20,7 @@ body.rtl .ux-theme-tabs .tab-content{margin-left:0; margin-right: 200px;}
 .ux-theme-option-submit{border:1px solid #eee;border-top:none;margin-left:200px;padding:10px 20px;}
 
 .ux-theme-switch-color{position:relative;}
-.ux-theme-remove-color{display:block;position:absolute;right:15px;top:0px;width:34px;height:34px;background:url(../images/icon/remove.png) no-repeat center center;cursor:pointer;}
+.ux-theme-remove-color{display:block;position:absolute;right:15px;top:0px;width:34px;height:34px;background:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/icon/remove.png) no-repeat center center;cursor:pointer;}
 .ux-theme-no-col.col-sm-2,
 .ux-theme-no-col.col-sm-3,
 .ux-theme-no-col.col-sm-4,
@@ -84,52 +84,52 @@ body.rtl .ux-theme-tabs .tab-content{margin-left:0; margin-right: 200px;}
 .ux-theme-image-select{margin-bottom:15px;}
 .ux-theme-image-select .nav > li{position:relative;margin-right:15px;}
 .ux-theme-image-select .nav > li > a{border-radius:0px;display:block;background-repeat:no-repeat;padding:0;}
-.ux-theme-image-select .nav > li > a.sidebar_hide { background-image:url(../images/aside_layout_01.png);background-color:transparent;}
-.ux-theme-image-select .nav > li > a.sidebar_hide_b { background-image:url(../images/aside_layout_02.png);background-color:transparent;}
-.ux-theme-image-select .nav > li > a.sidebar_hide_c { background-image:url(../images/aside_layout_03.png);background-color:transparent;}
-.ux-theme-image-select .nav > li > a.sidebar_hide_d { background-image:url(../images/aside_layout_04.png);background-color:transparent;}
-.ux-theme-image-select .nav > li > a.sidebar_hide_e { background-image:url(../images/aside_layout_05.png);background-color:transparent;}
-.ux-theme-image-select .nav > li > a.sidebar_show { background-image:url(../images/aside_layout_06.png);background-color:transparent;}
-.ux-theme-image-select .nav > li > a.right-sidebar{ background-image:url(../images/sidebar_right.png);}
-.ux-theme-image-select .nav > li > a.left-sidebar{ background-image:url(../images/sidebar_left.png);}
-.ux-theme-image-select .nav > li > a.without-sidebar{background-image:url(../images/sidebar_no.png);}
-.ux-theme-image-select .nav > li > a.self-hosted-audio{background-image:url(../images/self_hosted_audio.png);}
-.ux-theme-image-select .nav > li > a.soundcloud{background-image:url(../images/soundcloud.png);}
-.ux-theme-image-select .nav > li > a.imagebox-thumb{background-image:url(../images/thumb-small.png);}
-.ux-theme-image-select .nav > li > a.image-thumb-1{background-image:url(../images/thumb-big.png);}
-.ux-theme-image-select .nav > li > a.standard-blog-thumb{background-image:url(../images/thumb-long.png);}
-.ux-theme-image-select .nav > li > a.image-thumb-2{background-image:url(../images/thumb-height.png);}
-.ux-theme-image-select .nav > li > a.logo-on-bottom{background-image:url(../images/logo-on-bottom.png);}
-.ux-theme-image-select .nav > li > a.logo-on-top{background-image:url(../images/logo-on-top.png);}
+.ux-theme-image-select .nav > li > a.sidebar_hide { background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/aside_layout_01.png);background-color:transparent;}
+.ux-theme-image-select .nav > li > a.sidebar_hide_b { background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/aside_layout_02.png);background-color:transparent;}
+.ux-theme-image-select .nav > li > a.sidebar_hide_c { background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/aside_layout_03.png);background-color:transparent;}
+.ux-theme-image-select .nav > li > a.sidebar_hide_d { background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/aside_layout_04.png);background-color:transparent;}
+.ux-theme-image-select .nav > li > a.sidebar_hide_e { background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/aside_layout_05.png);background-color:transparent;}
+.ux-theme-image-select .nav > li > a.sidebar_show { background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/aside_layout_06.png);background-color:transparent;}
+.ux-theme-image-select .nav > li > a.right-sidebar{ background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/sidebar_right.png);}
+.ux-theme-image-select .nav > li > a.left-sidebar{ background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/sidebar_left.png);}
+.ux-theme-image-select .nav > li > a.without-sidebar{background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/sidebar_no.png);}
+.ux-theme-image-select .nav > li > a.self-hosted-audio{background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/self_hosted_audio.png);}
+.ux-theme-image-select .nav > li > a.soundcloud{background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/soundcloud.png);}
+.ux-theme-image-select .nav > li > a.imagebox-thumb{background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/thumb-small.png);}
+.ux-theme-image-select .nav > li > a.image-thumb-1{background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/thumb-big.png);}
+.ux-theme-image-select .nav > li > a.standard-blog-thumb{background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/thumb-long.png);}
+.ux-theme-image-select .nav > li > a.image-thumb-2{background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/thumb-height.png);}
+.ux-theme-image-select .nav > li > a.logo-on-bottom{background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/logo-on-bottom.png);}
+.ux-theme-image-select .nav > li > a.logo-on-top{background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/logo-on-top.png);}
 
 /* page shape */
-.ux-theme-image-select .nav > li > a.page_shape_1{background-image:url(../images/page_shape_1.jpg);}
-.ux-theme-image-select .nav > li > a.page_shape_2{background-image:url(../images/page_shape_2.jpg);}
-.ux-theme-image-select .nav > li > a.page_shape_3{background-image:url(../images/page_shape_3.jpg);}
-.ux-theme-image-select .nav > li > a.page_shape_4{background-image:url(../images/page_shape_4.jpg);}
-.ux-theme-image-select .nav > li > a.page_shape_5{background-image:url(../images/page_shape_5.jpg);}
-.ux-theme-image-select .nav > li > a.page_shape_6{background-image:url(../images/page_shape_6.jpg);}
-.ux-theme-image-select .nav > li > a.page_shape_7{background-image:url(../images/page_shape_7.jpg);}
-.ux-theme-image-select .nav > li > a.page_shape_8{background-image:url(../images/page_shape_8.jpg);}
+.ux-theme-image-select .nav > li > a.page_shape_1{background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/page_shape_1.jpg);}
+.ux-theme-image-select .nav > li > a.page_shape_2{background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/page_shape_2.jpg);}
+.ux-theme-image-select .nav > li > a.page_shape_3{background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/page_shape_3.jpg);}
+.ux-theme-image-select .nav > li > a.page_shape_4{background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/page_shape_4.jpg);}
+.ux-theme-image-select .nav > li > a.page_shape_5{background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/page_shape_5.jpg);}
+.ux-theme-image-select .nav > li > a.page_shape_6{background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/page_shape_6.jpg);}
+.ux-theme-image-select .nav > li > a.page_shape_7{background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/page_shape_7.jpg);}
+.ux-theme-image-select .nav > li > a.page_shape_8{background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/page_shape_8.jpg);}
 
-.ux-theme-image-select .nav > li > .selected{ width:40px;height:40px;background-image:url(../images/selected.png);background-repeat:no-repeat;position:absolute;right:-10px;top:-10px;display:none;}
+.ux-theme-image-select .nav > li > .selected{ width:40px;height:40px;background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/selected.png);background-repeat:no-repeat;position:absolute;right:-10px;top:-10px;display:none;}
 .ux-theme-image-select .nav > li.active > .selected{display:block;}
 
 /* list layout builder */
 .ux-theme-layout-builder .nav > li{position:relative;margin-right:15px;width:44px;height:30px;}
 .ux-theme-layout-builder .nav > li > a{border-radius:0px;display:block;background-repeat:no-repeat;padding:0;width:44px;height:30px;}
-.ux-theme-layout-builder .nav > li > a.list_layout_1{background-image:url(../images/list_layout_1.png);}
-.ux-theme-layout-builder .nav > li > a.list_layout_2{background-image:url(../images/list_layout_2.png);}
-.ux-theme-layout-builder .nav > li > a.list_layout_3{background-image:url(../images/list_layout_3.png);}
-.ux-theme-layout-builder .nav > li > a.list_layout_4{background-image:url(../images/list_layout_4.png);}
-.ux-theme-layout-builder .nav > li > a.page-list-layout_1{background-image:url(../images/page-list-layout_1.png);}
-.ux-theme-layout-builder .nav > li > a.page-list-layout_2{background-image:url(../images/page-list-layout_2.png);}
-.ux-theme-layout-builder .nav > li > a.page-list-layout_3{background-image:url(../images/page-list-layout_3.png);}
-.ux-theme-layout-builder .nav > li > a.page-list-layout_4{background-image:url(../images/page-list-layout_4.png);}
-.ux-theme-layout-builder .nav > li > a.page-list-layout_5{background-image:url(../images/page-list-layout_5.png);}
-.ux-theme-layout-builder .nav > li > a.page-list-layout_6{background-image:url(../images/page-list-layout_6.png);}
-.ux-theme-layout-builder .nav > li > a.page-list-layout_7{background-image:url(../images/page-list-layout_7.png);}
-.ux-theme-layout-builder .nav > li > a.page-list-layout_8{background-image:url(../images/page-list-layout_8.png);}
+.ux-theme-layout-builder .nav > li > a.list_layout_1{background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/list_layout_1.png);}
+.ux-theme-layout-builder .nav > li > a.list_layout_2{background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/list_layout_2.png);}
+.ux-theme-layout-builder .nav > li > a.list_layout_3{background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/list_layout_3.png);}
+.ux-theme-layout-builder .nav > li > a.list_layout_4{background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/list_layout_4.png);}
+.ux-theme-layout-builder .nav > li > a.page-list-layout_1{background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/page-list-layout_1.png);}
+.ux-theme-layout-builder .nav > li > a.page-list-layout_2{background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/page-list-layout_2.png);}
+.ux-theme-layout-builder .nav > li > a.page-list-layout_3{background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/page-list-layout_3.png);}
+.ux-theme-layout-builder .nav > li > a.page-list-layout_4{background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/page-list-layout_4.png);}
+.ux-theme-layout-builder .nav > li > a.page-list-layout_5{background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/page-list-layout_5.png);}
+.ux-theme-layout-builder .nav > li > a.page-list-layout_6{background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/page-list-layout_6.png);}
+.ux-theme-layout-builder .nav > li > a.page-list-layout_7{background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/page-list-layout_7.png);}
+.ux-theme-layout-builder .nav > li > a.page-list-layout_8{background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/page-list-layout_8.png);}
 .ux-theme-layout-builder .nav > li > .selected{width:44px;height:30px;position:absolute;left:0;top:0;display:none;border:2px solid #3C0;}
 .ux-theme-layout-builder .nav > li.active > .selected{display:block;}
 
@@ -150,7 +150,7 @@ body.rtl .ux-theme-tabs .tab-content{margin-left:0; margin-right: 200px;}
 .ux-theme-gallery-list .pagination{margin:5px 0;float:left;}
 .ux-theme-gallery-list .pagination li{margin-right:6px;}
 .ux-theme-gallery-list .pager-loading{float:right;margin:5px 0;margin-right:10px;display:none;}
-.ux-theme-gallery-list .pager-loading span{width:8px;height:8px;display:block;background-image:url(../images/loading-2.gif);background-repeat:no-repeat;background-position:center center}
+.ux-theme-gallery-list .pager-loading span{width:8px;height:8px;display:block;background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/loading-2.gif);background-repeat:no-repeat;background-position:center center}
 
 .ux-theme-gallery-select{min-height:140px;}
 .ux-theme-gallery-select .nav > li + li{margin-left:0;}
@@ -161,7 +161,7 @@ body.rtl .ux-theme-tabs .tab-content{margin-left:0; margin-right: 200px;}
 .ux-theme-gallery-select .nav > li > .btn{position:absolute;right:8px;bottom:8px;z-index:101;}
 
 .ux-theme-color > li > button{width:28px;height:28px;position:relative;}
-.ux-theme-color > li > button.btn-cancelcolor{background-image:url(../images/cancelcolor.png);background-position:center center;background-repeat:no-repeat;}
+.ux-theme-color > li > button.btn-cancelcolor{background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/cancelcolor.png);background-position:center center;background-repeat:no-repeat;}
 .ux-theme-color > li > button > .glyphicon{position:absolute;right:0px;bottom:0px;top:auto;display:none;}
 .ux-theme-color > li.active > button > .glyphicon{display:block;}
 
@@ -214,9 +214,9 @@ body.rtl .ux-theme-tabs .tab-content{margin-left:0; margin-right: 200px;}
 }
 
 /*header layout*/
-.ux-theme-image-select .nav > li > a.menu-default-hide { background-image:url(../images/header_a.png);background-color:transparent;}
-.ux-theme-image-select .nav > li > a.menu-default-show { background-image:url(../images/header_b.png);background-color:transparent;}
-.ux-theme-image-select .nav > li > a.menu-default-show-bg { background-image:url(../images/header_c.png);background-color:transparent;}
+.ux-theme-image-select .nav > li > a.menu-default-hide { background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/header_a.png);background-color:transparent;}
+.ux-theme-image-select .nav > li > a.menu-default-show { background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/header_b.png);background-color:transparent;}
+.ux-theme-image-select .nav > li > a.menu-default-show-bg { background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/header_c.png);background-color:transparent;}
 
 /*For user gudie tip */
 .show-hide-guide-wrap{
@@ -265,7 +265,7 @@ body.post-type-bmslider .row-actions .view { display:none;}
 .ux-theme-category-multiple-option{background-color:#fff;border:1px solid #ccc;padding:3px;width:100%;z-index:1;max-height:300px;overflow-y:scroll;border-color:#66afe9;outline:0;-webkit-box-shadow:inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6);box-shadow:inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6);}
 .ux-theme-category-multiple-option .nav-pills > li{margin:2px;float:none;clear:both;padding:3px;font-size:12px;}
 
-.ux-theme-category-multiple-select{line-height:20px;-webkit-appearance:none;-moz-appearance:none;text-indent:1px;text-overflow:'';background-repeat:no-repeat;background-position:100% 50%;background-image:url(../images/select-form.png);height:30px;padding:5px;font-size:12px;border-radius:3px;display:block;background-color:#fff;border:1px solid #ccc;vertical-align:middle;cursor:pointer;padding-left:15px;}
+.ux-theme-category-multiple-select{line-height:20px;-webkit-appearance:none;-moz-appearance:none;text-indent:1px;text-overflow:'';background-repeat:no-repeat;background-position:100% 50%;background-image:url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/images/select-form.png);height:30px;padding:5px;font-size:12px;border-radius:3px;display:block;background-color:#fff;border:1px solid #ccc;vertical-align:middle;cursor:pointer;padding-left:15px;}
 
 .ux-theme-category-multiple-close{position:absolute;right:0px;color:#fff;right:-25px;width:25px;line-height:25px;text-align:center;height:23px;z-index:2;cursor:pointer;display:none;background-color:#278BC6;}
 

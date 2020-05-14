@@ -7,7 +7,7 @@
     padding: 0;
     width: 16px;
     height: 17px;
-    background: url(futurico.png) no-repeat;
+    background: url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/css/icheck/futurico/futurico.png) no-repeat;
     border: none;
     cursor: pointer;
 }
@@ -47,7 +47,7 @@
        only screen and (min-device-pixel-ratio: 1.5) {
     .icheckbox_futurico,
     .iradio_futurico {
-        background-image: url(futurico@2x.png);
+        background-image: url(https://bboyrockit.github.io/rock1media/wp-content/themes/air-theme/functions/theme/css/icheck/futurico/futurico@2x.png);
         -webkit-background-size: 144px 19px;
         background-size: 144px 19px;
     }
